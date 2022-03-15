@@ -8,5 +8,7 @@ int main()
 	printf("dodavanje extra texta za diff");
 
 	printf("Dodano za novi stage");
+	
+	/*promjena koda*/
 	return;
 }
